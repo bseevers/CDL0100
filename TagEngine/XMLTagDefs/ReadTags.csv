@@ -1,0 +1,469 @@
+Name,Type,VarType,Description,Description:Description,Network,Network:SingleWriter,Network:UseBinding,Network:UseBuffering
+BAS_OXTNK1_MainPmp_ActCurr,Double,Network,on,Basement Oxide Tank 1 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_OXTNK1_MainPmp_ActFaultCd,Int32,Network,on,Basement Oxide Tank 1 Pump Fault code,on,FALSE,FALSE,FALSE
+BAS_OXTNK1_MainPmp_ActFrq,Double,Network,on,Basement Oxide Tank 1 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+BAS_OXTNK1_MainPmp_ActRPM,Double,Network,on,Basement Oxide Tank 1 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+BAS_OXTNK1_MainPmp_ActTemp,Int32,Network,on,Basement Oxide Tank 1 Pump VFD degC,on,FALSE,FALSE,FALSE
+BAS_OXTNK1_MainPmp_ActVolts,Double,Network,on,Basement Oxide Tank 1 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_OXTNK2_MainPmp_ActCurr,Double,Network,on,Basement Oxide Tank 2 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_OXTNK2_MainPmp_ActFaultCd,Int32,Network,on,Basement Oxide Tank 2 Pump Fault code,on,FALSE,FALSE,FALSE
+BAS_OXTNK2_MainPmp_ActFrq,Double,Network,on,Basement Oxide Tank 2 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+BAS_OXTNK2_MainPmp_ActRPM,Double,Network,on,Basement Oxide Tank 2 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+BAS_OXTNK2_MainPmp_ActTemp,Int32,Network,on,Basement Oxide Tank 2 Pump VFD degC,on,FALSE,FALSE,FALSE
+BAS_OXTNK2_MainPmp_ActVolts,Double,Network,on,Basement Oxide Tank 2 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_OXTNK3_MainPmp_ActCurr,Double,Network,on,Basement Oxide Tank 3 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_OXTNK3_MainPmp_ActFaultCd,Int32,Network,on,Basement Oxide Tank 3 Pump Fault code,on,FALSE,FALSE,FALSE
+BAS_OXTNK3_MainPmp_ActFrq,Double,Network,on,Basement Oxide Tank 3 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+BAS_OXTNK3_MainPmp_ActRPM,Double,Network,on,Basement Oxide Tank 3 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+BAS_OXTNK3_MainPmp_ActTemp,Int32,Network,on,Basement Oxide Tank 3 Pump VFD degC,on,FALSE,FALSE,FALSE
+BAS_OXTNK3_MainPmp_ActVolts,Double,Network,on,Basement Oxide Tank 3 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_TNK1_MainPmp_ActCurr,Double,Network,on,Basement Tank 1 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_TNK1_MainPmp_ActFaultCd,Int32,Network,on,Basement Tank 1 Pump Fault code,on,FALSE,FALSE,FALSE
+BAS_TNK1_MainPmp_ActFrq,Double,Network,on,Basement Tank 1 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+BAS_TNK1_MainPmp_ActRPM,Double,Network,on,Basement Tank 1 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+BAS_TNK1_MainPmp_ActTemp,Int32,Network,on,Basement Tank 1 Pump VFD degC,on,FALSE,FALSE,FALSE
+BAS_TNK1_MainPmp_ActVolts,Double,Network,on,Basement Tank 1 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_TNK2_MainPmp_ActCurr,Double,Network,on,Basement Tank 2 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_TNK2_MainPmp_ActFaultCd,Int32,Network,on,Basement Tank 2 Pump Fault code,on,FALSE,FALSE,FALSE
+BAS_TNK2_MainPmp_ActFrq,Double,Network,on,Basement Tank 2 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+BAS_TNK2_MainPmp_ActRPM,Double,Network,on,Basement Tank 2 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+BAS_TNK2_MainPmp_ActTemp,Int32,Network,on,Basement Tank 2 Pump VFD degC,on,FALSE,FALSE,FALSE
+BAS_TNK2_MainPmp_ActVolts,Double,Network,on,Basement Tank 2 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_TNK3_MainPmp_ActCurr,Double,Network,on,Basement Tank 3 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_TNK3_MainPmp_ActFaultCd,Int32,Network,on,Basement Tank 3 Pump Fault code,on,FALSE,FALSE,FALSE
+BAS_TNK3_MainPmp_ActFrq,Double,Network,on,Basement Tank 3 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+BAS_TNK3_MainPmp_ActRPM,Double,Network,on,Basement Tank 3 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+BAS_TNK3_MainPmp_ActTemp,Int32,Network,on,Basement Tank 3 Pump VFD degC,on,FALSE,FALSE,FALSE
+BAS_TNK3_MainPmp_ActVolts,Double,Network,on,Basement Tank 3 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_TNK4_MainPmp_ActCurr,Double,Network,on,Basement Tank 4 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+BAS_TNK4_MainPmp_ActFaultCd,Int32,Network,on,Basement Tank 4 Pump Fault code,on,FALSE,FALSE,FALSE
+BAS_TNK4_MainPmp_ActFrq,Double,Network,on,Basement Tank 4 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+BAS_TNK4_MainPmp_ActRPM,Double,Network,on,Basement Tank 4 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+BAS_TNK4_MainPmp_ActTemp,Int32,Network,on,Basement Tank 4 Pump VFD degC,on,FALSE,FALSE,FALSE
+BAS_TNK4_MainPmp_ActVolts,Double,Network,on,Basement Tank 4 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+HMI_BAS_TNK1_Main_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_BAS_TNK2_Main_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_BAS_TNK3_Main_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_BAS_TNK4_Main_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_OXTNK1_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_OXTNK2_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_OXTNK3_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_Profinet_BasAnybusOK,Boolean,Network,,,on,FALSE,FALSE,FALSE
+HMI_TNK1_Suck_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_TNK2_Suck_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_TNK3_Suck_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_TNK4_Suck_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_TNK5_Suck_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_TNK6_Suck_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_TNK7_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_TNK8_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+HMI_TNK9_Pmp,Boolean,Network,on,Indicates Pump Running,on,FALSE,FALSE,FALSE
+PLC_BASSCN_OK,Boolean,Network,on,Basement PLC Rack is OK,on,FALSE,FALSE,FALSE
+PLC_BASSCN_Prt1_OK,Boolean,Network,on,Port 1 of profinet scanner working,on,FALSE,FALSE,FALSE
+PLC_BASSCN_Prt2_OK,Boolean,Network,,,on,FALSE,FALSE,FALSE
+PLC_Version,Boolean,Network,on,Current version of PLC code,on,FALSE,FALSE,FALSE
+Profinet_Master_OK,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Profinet_Slaves_Connected,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect1_ActlAmpHrs,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect1_ActlCurrentFwd,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect1_ActlCurrentRev,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect1_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect1_IsCurrCntrl,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect1_IsON,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect2_ActlAmpHrs,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect2_ActlCurrentFwd,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect2_ActlCurrentRev,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect2_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect2_IsCurrCntrl,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect2_IsON,Boolean,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Flow1,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Flow1_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Flow2,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Flow2_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Flow3,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Flow3_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Flow4,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Flow4_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Pmp1_ActCurr,Double,Network,on,Tank1 SuckPump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK1_Pmp1_ActFaultCd,Int32,Network,on,Tank1 SuckPump Fault code,on,FALSE,FALSE,FALSE
+TNK1_Pmp1_ActFrq,Double,Network,on,Tank1 SuckPump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK1_Pmp1_ActRPM,Double,Network,on,Tank1 SuckPump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK1_Pmp1_ActTemp,Int32,Network,on,Tank1 SuckPump degC,on,FALSE,FALSE,FALSE
+TNK1_Pmp1_ActVolts,Double,Network,on,Tank1 SuckPump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK1_ProcVlv1_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_TSens_OK,Boolean,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Pmp1_ActCurr,Double,Network,on,Tank2 SuckPump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK2_Pmp1_ActFaultCd,Int32,Network,on,Tank2 SuckPump Fault code,on,FALSE,FALSE,FALSE
+TNK2_Pmp1_ActFrq,Double,Network,on,Tank2 SuckPump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK2_Pmp1_ActRPM,Double,Network,on,Tank2 SuckPump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK2_Pmp1_ActTemp,Int32,Network,on,Tank2 SuckPump degC,on,FALSE,FALSE,FALSE
+TNK2_Pmp1_ActVolts,Double,Network,on,Tank2 SuckPump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK3_Pmp1_ActCurr,Double,Network,on,Tank3 SuckPump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK3_Pmp1_ActFaultCd,Int32,Network,on,Tank3 SuckPump Fault code,on,FALSE,FALSE,FALSE
+TNK3_Pmp1_ActFrq,Double,Network,on,Tank3 SuckPump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK3_Pmp1_ActRPM,Double,Network,on,Tank3 SuckPump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK3_Pmp1_ActTemp,Int32,Network,on,Tank3 SuckPump degC,on,FALSE,FALSE,FALSE
+TNK3_Pmp1_ActVolts,Double,Network,on,Tank3 SuckPump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK4_Pmp1_ActCurr,Double,Network,on,Tank4 SuckPump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK4_Pmp1_ActFaultCd,Int32,Network,on,Tank4 SuckPump Fault code,on,FALSE,FALSE,FALSE
+TNK4_Pmp1_ActFrq,Double,Network,on,Tank4 SuckPump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK4_Pmp1_ActRPM,Double,Network,on,Tank4 SuckPump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK4_Pmp1_ActTemp,Int32,Network,on,Tank4 SuckPump degC,on,FALSE,FALSE,FALSE
+TNK4_Pmp1_ActVolts,Double,Network,on,Tank4 SuckPump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK5_Pmp1_ActCurr,Double,Network,on,Tank5 SuckPump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK5_Pmp1_ActFaultCd,Int32,Network,on,Tank5 SuckPump Fault code,on,FALSE,FALSE,FALSE
+TNK5_Pmp1_ActFrq,Double,Network,on,Tank5 SuckPump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK5_Pmp1_ActRPM,Double,Network,on,Tank5 SuckPump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK5_Pmp1_ActTemp,Int32,Network,on,Tank5 SuckPump degC,on,FALSE,FALSE,FALSE
+TNK5_Pmp1_ActVolts,Double,Network,on,Tank5 SuckPump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK6_Pmp1_ActCurr,Double,Network,on,Tank6 SuckPump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK6_Pmp1_ActFaultCd,Int32,Network,on,Tank6 SuckPump Fault code,on,FALSE,FALSE,FALSE
+TNK6_Pmp1_ActFrq,Double,Network,on,Tank6 SuckPump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK6_Pmp1_ActRPM,Double,Network,on,Tank6 SuckPump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK6_Pmp1_ActTemp,Int32,Network,on,Tank6 SuckPump degC,on,FALSE,FALSE,FALSE
+TNK6_Pmp1_ActVolts,Double,Network,on,Tank6 SuckPump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK7_Pmp1_ActCurr,Double,Network,on,Tank7 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK7_Pmp1_ActFaultCd,Int32,Network,on,Tank7 Pump Fault code,on,FALSE,FALSE,FALSE
+TNK7_Pmp1_ActFrq,Double,Network,on,Tank7 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK7_Pmp1_ActRPM,Double,Network,on,Tank7 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK7_Pmp1_ActTemp,Int32,Network,on,Tank7 Pump VFD degC,on,FALSE,FALSE,FALSE
+TNK7_Pmp1_ActVolts,Double,Network,on,Tank7 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK8_Pmp1_ActCurr,Double,Network,on,Tank8 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK8_Pmp1_ActFaultCd,Int32,Network,on,Tank8 Pump Fault code,on,FALSE,FALSE,FALSE
+TNK8_Pmp1_ActFrq,Double,Network,on,Tank8 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK8_Pmp1_ActRPM,Double,Network,on,Tank8 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK8_Pmp1_ActTemp,Int32,Network,on,Tank8 Pump VFD degC,on,FALSE,FALSE,FALSE
+TNK8_Pmp1_ActVolts,Double,Network,on,Tank8 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK9_Pmp1_ActCurr,Double,Network,on,Tank9 Pump - current supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK9_Pmp1_ActFaultCd,Int32,Network,on,Tank9 Pump Fault code,on,FALSE,FALSE,FALSE
+TNK9_Pmp1_ActFrq,Double,Network,on,Tank9 Pump - frequency motor at,on,FALSE,FALSE,FALSE
+TNK9_Pmp1_ActRPM,Double,Network,on,Tank9 Pump - motor actual rpm,on,FALSE,FALSE,FALSE
+TNK9_Pmp1_ActTemp,Int32,Network,on,Tank9 Pump VFD degC,on,FALSE,FALSE,FALSE
+TNK9_Pmp1_ActVolts,Double,Network,on,Tank9 Pump - voltage supplied to motor by VFD,on,FALSE,FALSE,FALSE
+TNK12_MainPressure,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_SuckFlow,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK1_SuckFlow_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rect1_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect2_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Tnk1_Can_Plate,Boolean,Network,on,Indicates a cycle can run,on,FALSE,FALSE,FALSE
+IO_Tnk1_Educt_Motor1_InRange,Boolean,Network,on,Indicates a eductor motor is running,on,FALSE,FALSE,FALSE
+IO_Tnk1_Educt_Motor2_InRange,Boolean,Network,on,Indicates a eductor motor is running,on,FALSE,FALSE,FALSE
+IO_Tnk1_Rack_Motor_InRange,Boolean,Network,on,Indicates a rack motor is running,on,FALSE,FALSE,FALSE
+BAS_Proc1_DI_Total,Double,Network,on,Total flow of DI into process tank 1 after last reset,on,FALSE,FALSE,FALSE
+BAS_Proc1_DI_FlowRate,Double,Network,on,Current flow rate of DI water into process tank 1,on,FALSE,FALSE,FALSE
+BAS_Proc1_Oxide_FlowRate,Double,Network,on,Current flow rate of process 1 bath to oxide reactor,on,FALSE,FALSE,FALSE
+BAS_Proc1_Tank_Level,Double,Network,on,Level sensor data from basement process 1 tank,on,FALSE,FALSE,FALSE
+BAS_Proc1_Total_Flow,Double,Network,on,Sum of plating tank 1 and 2 flow into systems,on,FALSE,FALSE,FALSE
+BAS_Proc1_T,Double,Network,on,Temperature of process 1 just after heat exchanger,on,FALSE,FALSE,FALSE
+BAS_Proc1_P,Double,Network,on,Pressure of process 1 just after heat exchanger,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk1_3Way_At_Recirc,Boolean,Network,on,Indicates a 3way ready for recirc,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk1_3Way_At_Open,Boolean,Network,on,Indicates a 3way ready for draining,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk1_3Way_At_Closed,Boolean,Network,on,Indicates a 3way ready for process flow,on,FALSE,FALSE,FALSE
+FAC_ColdWater_In_T,Double,Network,,,on,FALSE,FALSE,FALSE
+FAC_ColdWater_Out_T,Double,Network,,,on,FALSE,FALSE,FALSE
+FAC_TemperedWater_In_T,Double,Network,,,on,FALSE,FALSE,FALSE
+FAC_TemperedWater_Out_T,Double,Network,,,on,FALSE,FALSE,FALSE
+FAC_BoilerWater_In_T,Double,Network,,,on,FALSE,FALSE,FALSE
+FAC_BoilerWater_Out_T,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_BAS_Proc1_CircPmp,Boolean,Network,on,Indicates recirc pump on Process 1 tank T control,on,FALSE,FALSE,FALSE
+IO_BAS_Proc2_CircPmp,Boolean,Network,on,Indicates recirc pump on Process 2 tank T control,on,FALSE,FALSE,FALSE
+IO_BAS_Proc3_CircPmp,Boolean,Network,on,Indicates recirc pump on Process 3 tank T control,on,FALSE,FALSE,FALSE
+IO_Chilled_Fac_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Tempered_Fac_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Boiler_Fac_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Proc1_Chilled_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Proc1_Tempered_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Proc2_Chilled_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Proc2_Tempered_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Proc3_Chilled_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Proc3_Tempered_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Proc3_Boiler_Valv_Pos,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_DI_FlowRate,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_DI_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_Oxide_FlowRate,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_Tank_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_T,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_P,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_DI_FlowRate,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_DI_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_Oxide_FlowRate,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc4_DI_FlowRate,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc4_DI_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_Tank_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc4_Tank_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_OxFlowCntrlVlv_PosActl,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_T,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_P,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc1_OxScrew_On,Boolean,Network,on,Indicates Oxide System 1 is dosing,on,FALSE,FALSE,FALSE
+BAS_Proc1_grmOxNeeded,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect3_IsON,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect4_IsON,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect9_IsON,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect10_IsON,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect11_IsON,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect12_IsON,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect3_IsCurrCntrl,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect4_IsCurrCntrl,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect9_IsCurrCntrl,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect10_IsCurrCntrl,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect11_IsCurrCntrl,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect12_IsCurrCntrl,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect3_ActlCurrentFwd,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect3_ActlCurrentRev,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect3_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect3_ActlAmpHrs,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect4_ActlCurrentFwd,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect4_ActlCurrentRev,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect4_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect4_ActlAmpHrs,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect9_ActlCurrentFwd,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect9_ActlCurrentRev,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect9_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect9_ActlAmpHrs,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect10_ActlCurrentFwd,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect10_ActlCurrentRev,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect10_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect10_ActlAmpHrs,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect11_ActlCurrentFwd,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect11_ActlCurrentRev,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect11_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect11_ActlAmpHrs,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect12_ActlCurrentFwd,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect12_ActlCurrentRev,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect12_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect12_ActlAmpHrs,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect3_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect4_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect9_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect10_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect11_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect12_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Flow1,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Flow1_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Flow2,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Flow2_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Flow3,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Flow3_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Flow4,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Flow4_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK2_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK2_ProcVlv1_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+Tnk2_Can_Plate,Boolean,Network,,,on,FALSE,FALSE,FALSE
+TNK2_SuckFlow,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk2_Rack_Motor_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk2_Educt_Motor1_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk2_Educt_Motor2_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect5_IsOn,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect5_IsAuto,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect5_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect5_ActlCurrent,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Flow1,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Flow1_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Flow2,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Flow2_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Flow3,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Flow3_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Flow4,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Flow4_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_ProcVlv1_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_Total_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Flow1,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Flow1_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Flow2,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Flow2_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Flow3,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Flow3_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Flow4,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Flow4_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK4_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK4_ProcVlv1_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_SuckFlow,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK3_SuckFlow_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK4_SuckFlow,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK4_SuckFlow_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK34_MainPressure,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK56_MainPressure,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK5_SuckFlow,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK5_SuckFlow_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+TNK6_SuckFlow,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK6_SuckFlow_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Tnk3_Can_Plate,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect5_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect6_IsOn,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect6_IsAuto,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect6_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect6_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect6_ActlCurrent,Double,Network,,,on,FALSE,FALSE,FALSE
+Tnk4_Can_Plate,Boolean,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc4_H2SO4_FlowRate,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc4_H2SO4_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+Main_Elect_Cab_T,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk2_3Way_At_Recirc,Boolean,Network,on,Indicates a 3way ready for recirc,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk2_3Way_At_Open,Boolean,Network,on,Indicates a 3way ready for draining,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk2_3Way_At_Closed,Boolean,Network,on,Indicates a 3way ready for process flow,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk3_3Way_At_Recirc,Boolean,Network,on,Indicates a 3way ready for recirc,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk3_3Way_At_Open,Boolean,Network,on,Indicates a 3way ready for draining,on,FALSE,FALSE,FALSE
+IO_Bas_Tnk3_3Way_At_Closed,Boolean,Network,on,Indicates a 3way ready for process flow,on,FALSE,FALSE,FALSE
+IO_Tnk3_Educt_Motor1_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk3_Educt_Motor2_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk3_Rack_Motor_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk4_Rack_Motor_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk4_Educt_Motor1_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk4_Educt_Motor2_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Proc1_Total_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Proc2_Total_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Proc3_Total_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Proc4_Total_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_OxScrew_On,Boolean,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_OxScrew_On,Boolean,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_grmOxNeeded,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_grmOxNeeded,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect7_IsOn,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect7_IsAuto,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect7_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect7_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect7_ActlCurrent,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect8_IsOn,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect8_IsAuto,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect8_ActlAmpMins,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect8_ActlVolts,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect8_ActlCurrent,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Conductivity,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Flow_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_ProcVlv_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Conductivity,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Flow_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_ProcVlv_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Reset_Yr,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Reset_M,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Reset_D,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Reset_H,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse2_Reset_Mn,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Reset_Yr,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Reset_M,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Reset_D,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Reset_H,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse3_Reset_Mn,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Acid3_Conductivity,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Conductivity,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid3_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid3_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Flow_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid3_CondTemperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_ProcVlv_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Reset_Yr,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Reset_M,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Reset_D,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Reset_H,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse1_Reset_Mn,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Acid3_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+AcidTnk3_Tank_T,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_ATank3_HeaterEnable,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_ATank3_HeaterCycle,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Dryer_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Flow_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Conductivity,Double,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Reset_Yr,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Reset_M,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Reset_D,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Reset_H,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_Reset_Mn,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Rinse4_ProcVlv_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+Dryer_BlrWtrActl,Double,Network,,,on,FALSE,FALSE,FALSE
+Etch_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Etch_Flow_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Acid2_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid2_Flow_Total,UInt32,Network,,,on,FALSE,FALSE,FALSE
+Etch_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid2_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+Etch_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid2_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid2_ProcVlv_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+AcidTnk2_Tank_T,Double,Network,,,on,FALSE,FALSE,FALSE
+EtchTnk_Tank_T,Double,Network,,,on,FALSE,FALSE,FALSE
+PlenumWtrExit_T,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_ATank2_HeaterEnable,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_ATank2_HeaterCycle,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_ATank1_HeaterEnable,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_ATank1_HeaterCycle,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect1_2_CurrRecpStp,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect3_4_CurrRecpStp,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect5_6_CurrRecpStp,Int32,Network,,,on,FALSE,FALSE,FALSE
+Rect7_8_CurrRecpStp,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Flow1,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Flow2,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Flow3,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Flow4,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Flow1_Total,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Flow2_Total,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Flow3_Total,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Flow4_Total,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK5_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK5_ProcVlv1_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Flow1,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Flow2,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Flow3,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Flow4,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Flow1_Total,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Flow2_Total,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Flow3_Total,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Flow4_Total,Int32,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Temperature,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK6_Level,Double,Network,,,on,FALSE,FALSE,FALSE
+TNK6_ProcVlv1_ActlPos,Double,Network,,,on,FALSE,FALSE,FALSE
+Rect9_10_CurrRecpStp,Int32,Network,,,on,FALSE,FALSE,FALSE
+Tnk5_Can_Plate,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Proc5_Total_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+Proc6_Total_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_Total_Flow,Double,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk5_Rack_Motor_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk5_Educt_Motor1_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk5_Educt_Motor2_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalOxDosed_P1,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalOxDosed_P2,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalOxDosed_P3,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalSPSDosed_P1,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalSPSDosed_P2,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalSPSDosed_P3,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalSuppDosed_P1,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalSuppDosed_P2,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalSuppDosed_P3,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalLevDosed_P1,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalLevDosed_P2,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalLevDosed_P3,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalAcidDosed_P1,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalAcidDosed_P2,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalAcidDosed_P3,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc1_Tank_Rho,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc2_Tank_Rho,Double,Network,,,on,FALSE,FALSE,FALSE
+BAS_Proc3_Tank_Rho,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid3_Tank_Rho,Double,Network,,,on,FALSE,FALSE,FALSE
+Etch_Tank_Rho,Double,Network,,,on,FALSE,FALSE,FALSE
+Acid2_Tank_Rho,Double,Network,,,on,FALSE,FALSE,FALSE
+Tnk6_Can_Plate,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Acid3_Flow_Total,Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Profinet_BasRackOK,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk6_Rack_Motor_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk6_Educt_Motor2_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+IO_Tnk6_Educt_Motor1_InRange,Boolean,Network,,,on,FALSE,FALSE,FALSE
+Rect11_12_CurrRecpStp,Int32,Network,,,on,FALSE,FALSE,FALSE
+BAS_DI_RunningTot,Double,Network,,,on,FALSE,FALSE,FALSE
+Proc1_TotalAmpMin,Int32,Network,,,on,FALSE,FALSE,FALSE
+Proc2_TotalAmpMin,Int32,Network,,,on,FALSE,FALSE,FALSE
+Proc3_TotalAmpMin,Int32,Network,,,on,FALSE,FALSE,FALSE
+HMI_TotalAcidDosed_PreDip,Double,Network,,,on,FALSE,FALSE,FALSE

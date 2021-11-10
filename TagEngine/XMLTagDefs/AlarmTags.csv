@@ -1,0 +1,275 @@
+Name,Type,VarType,Description,Description:Description,Network,Network:SingleWriter,Network:UseBinding,Network:UseBuffering
+ALRM_BAS_OXTNK1_Main_Pmp,Boolean,Network,on,Basement oxide tank 1 pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_BAS_OXTNK2_Main_Pmp,Boolean,Network,on,Basement oxide tank 2 pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_BAS_OXTNK3_Main_Pmp,Boolean,Network,on,Basement oxide tank 3 pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_BAS_Proc1_LevelSense,Boolean,Network,on,Level sensor for process 1 main tank in B-4 has failed,on,FALSE,FALSE,FALSE
+ALRM_BAS_Proc2_LevelSense,Boolean,Network,on,Bad/missing/broken wire Level Sensor Basement Process 2 B-4,on,FALSE,FALSE,FALSE
+ALRM_BAS_Proc3_LevelSense,Boolean,Network,on,Bad/missing/broken wire Level Sensor Basement Process 3 B-4,on,FALSE,FALSE,FALSE
+ALRM_BAS_Proc4_LevelSense,Boolean,Network,on,Bad/missing/broken wire Level Sensor Basement Mixing Tank B-4,on,FALSE,FALSE,FALSE
+ALRM_BAS_TNK1_Main_Pmp,Boolean,Network,on,Basement main tank 1 pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_BAS_TNK2_Main_Pmp,Boolean,Network,on,Basement main tank 2 pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_BAS_TNK3_Main_Pmp,Boolean,Network,on,Basement main tank 3 pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_BAS_TNK4_Main_Pmp,Boolean,Network,on,Basement main tank 4 pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_BASTNK1_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to basement main pump VFD 1,on,FALSE,FALSE,FALSE
+ALRM_BASTNK1_VFD_OVRTMP,Boolean,Network,on,Basement Tank1 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_BASTNK2_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to basement main pump VFD 2,on,FALSE,FALSE,FALSE
+ALRM_BASTNK2_VFD_OVRTMP,Boolean,Network,on,Basement Tank2 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_BASTNK3_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to basement main pump VFD 3,on,FALSE,FALSE,FALSE
+ALRM_BASTNK3_VFD_OVRTMP,Boolean,Network,on,Basement Tank3 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_BASTNK4_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to basement main pump VFD 4,on,FALSE,FALSE,FALSE
+ALRM_BASTNK4_VFD_OVRTMP,Boolean,Network,on,Basement Tank4 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_EStop,Boolean,Network,on,"Machine is EStopped, No Operation",on,FALSE,FALSE,FALSE
+ALRM_GFConc_BAS_Proc1,Boolean,Network,on,Buss communication lost to GF concentrator for Process 1 in B-4,on,FALSE,FALSE,FALSE
+ALRM_GFConc_BAS_Proc2,Boolean,Network,on,Buss communication lost to Process 2 B-4 Concentrator,on,FALSE,FALSE,FALSE
+ALRM_GFConc_BAS_Proc3,Boolean,Network,on,Buss communication lost to Process 3 B-4 Concentrator,on,FALSE,FALSE,FALSE
+ALRM_GFConc_Faclilities,Boolean,Network,on,Buss communication lost to basement Facilities side GF sensor concentrator,on,FALSE,FALSE,FALSE
+ALRM_GFConc_ProcTP,Boolean,Network,on,Buss communication lost to GF concentrator for Process T&P in B-3,on,FALSE,FALSE,FALSE
+ALRM_GFConc_PTank1,Boolean,Network,on,Communication with GF concentrator for process tank 1 failed,on,FALSE,FALSE,FALSE
+ALRM_GFConc_PTank1_2,Boolean,Network,on,Communication with GF concentrator for Process tank1 and 2 failed.,on,FALSE,FALSE,FALSE
+ALRM_OXTNK1_VFD_OVRTMP,Boolean,Network,on,Basement Oxide Tank1 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_OXTNK2_VFD_OVRTMP,Boolean,Network,on,Basement Oxide Tank2 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_OXTNK3_VFD_OVRTMP,Boolean,Network,on,Basement Oxide Tank3 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_OXTNKS_No_Comm,Boolean,Network,on,Buss communication lost to basement oxide pump VFDs 1-3,on,FALSE,FALSE,FALSE
+ALRM_Proc1_OxTank_HH,Boolean,Network,on,Process 1 Oxide tanks overfilled (B-4),on,FALSE,FALSE,FALSE
+ALRM_Proc2_OxTank_HH,Boolean,Network,on,Process 2 Oxide tanks overfilled (B-4),on,FALSE,FALSE,FALSE
+ALRM_Proc3_OxTank_HH,Boolean,Network,on,Process 3 Oxide tanks overfilled (B-4),on,FALSE,FALSE,FALSE
+ALRM_PSense_Bas_Proc1,Boolean,Network,on,Bad/missing/broken wire Pressure Sensor Basement Process 1 B-3,on,FALSE,FALSE,FALSE
+ALRM_PSense_Bas_Proc2,Boolean,Network,on,Bad/missing/broken wire Pressure Sensor Basement Process 2 B-3,on,FALSE,FALSE,FALSE
+ALRM_PSense_Bas_Proc3,Boolean,Network,on,Bad/missing/broken wire Pressure Sensor Basement process 3 heat exchanger B-3,on,FALSE,FALSE,FALSE
+ALRM_PTnk1_2_SupplyPres_Sensor,Boolean,Network,on,Chemistry supply pressure sensor at process tanks 1-2 has failed.,on,FALSE,FALSE,FALSE
+ALRM_RECT1_6_ProfiFault,Boolean,Network,on,Profibus fault - no communication with Pulse rectifiers,on,FALSE,FALSE,FALSE
+ALRM_RECT1_CommErr,Boolean,Network,on,Lost contact with rectifier 1,on,FALSE,FALSE,FALSE
+ALRM_RECT1_Fault,Boolean,Network,on,General Fault in rectifier 1,on,FALSE,FALSE,FALSE
+ALRM_RECT1_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 1,on,FALSE,FALSE,FALSE
+ALRM_RECT1_OvrPwr,Boolean,Network,on,Power limit exceeded on rectifier 1,on,FALSE,FALSE,FALSE
+ALRM_RECT1_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 1,on,FALSE,FALSE,FALSE
+ALRM_RECT1_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 1,on,FALSE,FALSE,FALSE
+ALRM_RECT1_RecipeeErr,Boolean,Network,on,Rectfier 1 channel 1 recipe error (left anode process tank 1),on,FALSE,FALSE,FALSE
+ALRM_RECT1_WrnTemp,Boolean,Network,on,Rectifier 1 getting hot (Warning),on,FALSE,FALSE,FALSE
+ALRM_RECT2_CommErr,Boolean,Network,on,Lost contact with rectifier 2,on,FALSE,FALSE,FALSE
+ALRM_RECT2_Fault,Boolean,Network,on,General Fault in rectifier 2,on,FALSE,FALSE,FALSE
+ALRM_RECT2_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 2,on,FALSE,FALSE,FALSE
+ALRM_RECT2_OvrPwr,Boolean,Network,on,Power limit exceeded on rectifier 2,on,FALSE,FALSE,FALSE
+ALRM_RECT2_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 2,on,FALSE,FALSE,FALSE
+ALRM_RECT2_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 2,on,FALSE,FALSE,FALSE
+ALRM_RECT2_WrnTemp,Boolean,Network,on,Rectifier 1 getting hot (Warning),on,FALSE,FALSE,FALSE
+ALRM_TNK1_FillTime,Boolean,Network,on,Plating tank 1 did not fill within timeout - check flow and sensors,on,FALSE,FALSE,FALSE
+ALRM_TNK1_Overfilled,Boolean,Network,on,"Process tank 1 is overfilled, reduce flow setting, clear drains, etc. and try again.",on,FALSE,FALSE,FALSE
+ALRM_TNK1_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to suck pump VFD 1,on,FALSE,FALSE,FALSE
+ALRM_TNK1_Rack_Motors,Boolean,Network,on,Process tank 1 has a rack/eductor motor not operating correctly.,on,FALSE,FALSE,FALSE
+ALRM_TNK1_Suck_Pmp,Boolean,Network,on,Tank1 SuckPump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK1_VFD_OVRTMP,Boolean,Network,on,Tank1 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TNK2_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to suck pump VFD 2,on,FALSE,FALSE,FALSE
+ALRM_TNK2_Suck_Pmp,Boolean,Network,on,Tank2 SuckPump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK2_VFD_OVRTMP,Boolean,Network,on,Tank2 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TNK3_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to suck pump VFD 3,on,FALSE,FALSE,FALSE
+ALRM_TNK3_Suck_Pmp,Boolean,Network,on,Tank3 SuckPump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK3_VFD_OVRTMP,Boolean,Network,on,Tank3 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TNK4_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to suck pump VFD 4,on,FALSE,FALSE,FALSE
+ALRM_TNK4_Suck_Pmp,Boolean,Network,on,Tank4 SuckPump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK4_VFD_OVRTMP,Boolean,Network,on,Tank4 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TNK5_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to suck pump VFD 5,on,FALSE,FALSE,FALSE
+ALRM_TNK5_Suck_Pmp,Boolean,Network,on,Tank5 SuckPump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK5_VFD_OVRTMP,Boolean,Network,on,Tank5 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TNK6_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to suck pump VFD 6,on,FALSE,FALSE,FALSE
+ALRM_TNK6_Suck_Pmp,Boolean,Network,on,Tank6 SuckPump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK6_VFD_OVRTMP,Boolean,Network,on,Tank6 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TNK7_Main_Pmp,Boolean,Network,on,Tank7 Main Pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK7_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to main pump VFD 7-10,on,FALSE,FALSE,FALSE
+ALRM_TNK7_VFD_OVRTMP,Boolean,Network,on,Tank7 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TNK8_Main_Pmp,Boolean,Network,on,Tank8 Main Pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK8_VFD_OVRTMP,Boolean,Network,on,Tank8 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TNK9_Main_Pmp,Boolean,Network,on,Tank9 Main Pump - Alarmed,on,FALSE,FALSE,FALSE
+ALRM_TNK9_VFD_OVRTMP,Boolean,Network,on,Tank9 VFD Overtemp,on,FALSE,FALSE,FALSE
+ALRM_TSense_Bas_Proc1,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Basement Process 1 B-3,on,FALSE,FALSE,FALSE
+ALRM_TSense_Bas_Proc2,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Basement Process 2 B-3,on,FALSE,FALSE,FALSE
+ALRM_TSense_Bas_Proc3,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Basement process 3 heat exchanger B-3,on,FALSE,FALSE,FALSE
+ALRM_TSense_Facil_BlrIn,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Fac Boiler In,on,FALSE,FALSE,FALSE
+ALRM_TSense_Facil_BlrOut,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Fac Boiler Out,on,FALSE,FALSE,FALSE
+ALRM_TSense_Facil_CldIn,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Fac Cold In,on,FALSE,FALSE,FALSE
+ALRM_TSense_Facil_CldOut,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Fac Cold Out,on,FALSE,FALSE,FALSE
+ALRM_TSense_Facil_TmpdIn,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Fac Tempered In,on,FALSE,FALSE,FALSE
+ALRM_TSense_Facil_TmpdOut,Boolean,Network,on,Bad/missing/broken wire Temp Sensor Fac Tempered Out B-3,on,FALSE,FALSE,FALSE
+ALRM_RECT3_WrnTemp,Boolean,Network,on,Rectifier 3 getting hot (Warning),on,FALSE,FALSE,FALSE
+ALRM_RECT3_Fault,Boolean,Network,on,General Fault in rectifier 3,on,FALSE,FALSE,FALSE
+ALRM_RECT3_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 3,on,FALSE,FALSE,FALSE
+ALRM_RECT3_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 3,on,FALSE,FALSE,FALSE
+ALRM_RECT3_OvrPwr,Boolean,Network,on,Power limit exceeded on rectifier 3,on,FALSE,FALSE,FALSE
+ALRM_RECT3_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 3,on,FALSE,FALSE,FALSE
+ALRM_RECT3_CommErr,Boolean,Network,on,Lost contact with rectifier 3,on,FALSE,FALSE,FALSE
+ALRM_RECT3_RecipeeErr,Boolean,Network,on,Rectfier 3 channel 1 recipe error (left anode process tank 2),on,FALSE,FALSE,FALSE
+ALRM_RECT4_WrnTemp,Boolean,Network,on,Rectifier 4 getting hot (Warning),on,FALSE,FALSE,FALSE
+ALRM_RECT4_Fault,Boolean,Network,on,General Fault in rectifier 4,on,FALSE,FALSE,FALSE
+ALRM_RECT4_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 4,on,FALSE,FALSE,FALSE
+ALRM_RECT4_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 4,on,FALSE,FALSE,FALSE
+ALRM_RECT4_OvrPwr,Boolean,Network,on,Power limit exceeded on rectifier 4,on,FALSE,FALSE,FALSE
+ALRM_RECT4_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 4,on,FALSE,FALSE,FALSE
+ALRM_RECT4_CommErr,Boolean,Network,on,Lost contact with rectifier 4,on,FALSE,FALSE,FALSE
+ALRM_RECT4_RecipeeErr,Boolean,Network,on,Rectfier 9 channel 1 recipe error (right anode process tank 5),on,FALSE,FALSE,FALSE
+ALRM_RECT9_WrnTemp,Boolean,Network,on,Rectifier 9 getting hot (Warning),on,FALSE,FALSE,FALSE
+ALRM_RECT9_Fault,Boolean,Network,on,General Fault in rectifier 9,on,FALSE,FALSE,FALSE
+ALRM_RECT9_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 9,on,FALSE,FALSE,FALSE
+ALRM_RECT9_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 9,on,FALSE,FALSE,FALSE
+ALRM_RECT9_OvrPwr,Boolean,Network,on,Power limit exceeded on rectifier 9,on,FALSE,FALSE,FALSE
+ALRM_RECT9_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 9,on,FALSE,FALSE,FALSE
+ALRM_RECT9_CommErr,Boolean,Network,on,Lost contact with rectifier 9,on,FALSE,FALSE,FALSE
+ALRM_RECT9_RecipeeErr,Boolean,Network,on,Rectfier 9 channel 1 recipe error (left anode process tank 5),on,FALSE,FALSE,FALSE
+ALRM_RECT10_WrnTemp,Boolean,Network,on,Rectifier 10 getting hot (Warning),on,FALSE,FALSE,FALSE
+ALRM_RECT10_Fault,Boolean,Network,on,General Fault in rectifier 10,on,FALSE,FALSE,FALSE
+ALRM_RECT10_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 10,on,FALSE,FALSE,FALSE
+ALRM_RECT10_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 10,on,FALSE,FALSE,FALSE
+ALRM_RECT10_OvrPwr,Boolean,Network,on,Power limit exceeded on rectifier 10,on,FALSE,FALSE,FALSE
+ALRM_RECT10_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 10,on,FALSE,FALSE,FALSE
+ALRM_RECT10_CommErr,Boolean,Network,on,Lost contact with rectifier 10,on,FALSE,FALSE,FALSE
+ALRM_RECT10_RecipeeErr,Boolean,Network,on,Rectfier 10 channel 1 recipe error (right anode process tank 6),on,FALSE,FALSE,FALSE
+ALRM_RECT11_WrnTemp,Boolean,Network,on,Rectifier 11 getting hot (Warning),on,FALSE,FALSE,FALSE
+ALRM_RECT11_Fault,Boolean,Network,on,General Fault in rectifier 11,on,FALSE,FALSE,FALSE
+ALRM_RECT11_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 11,on,FALSE,FALSE,FALSE
+ALRM_RECT11_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 11,on,FALSE,FALSE,FALSE
+ALRM_RECT11_OvrPwr,Boolean,Network,on,Power limit exceeded on rectifier 11,on,FALSE,FALSE,FALSE
+ALRM_RECT11_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 11,on,FALSE,FALSE,FALSE
+ALRM_RECT11_CommErr,Boolean,Network,on,Lost contact with rectifier 11,on,FALSE,FALSE,FALSE
+ALRM_RECT11_RecipeeErr,Boolean,Network,on,Rectfier 11 channel 1 recipe error (left anode process tank 6),on,FALSE,FALSE,FALSE
+ALRM_RECT12_WrnTemp,Boolean,Network,on,Rectifier 12 getting hot (Warning),on,FALSE,FALSE,FALSE
+ALRM_RECT12_Fault,Boolean,Network,on,General Fault in rectifier 12,on,FALSE,FALSE,FALSE
+ALRM_RECT12_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 12,on,FALSE,FALSE,FALSE
+ALRM_RECT12_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 12,on,FALSE,FALSE,FALSE
+ALRM_RECT12_OvrPwr,Boolean,Network,on,Power limit exceeded on rectifier 12,on,FALSE,FALSE,FALSE
+ALRM_RECT12_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 12,on,FALSE,FALSE,FALSE
+ALRM_RECT12_CommErr,Boolean,Network,on,Lost contact with rectifier 12,on,FALSE,FALSE,FALSE
+ALRM_RECT12_RecipeeErr,Boolean,Network,on,Rectfier 12 channel 1 recipe error (right anode process tank 6),on,FALSE,FALSE,FALSE
+ALRM_TNK2_Rack_Motors,Boolean,Network,on,Process tank 2 has a rack/eductor motor not operating correctly.,on,FALSE,FALSE,FALSE
+ALRM_TNK2_Overfilled,Boolean,Network,on,"Process tank 2 is overfilled, reduce flow setting, clear drains, etc. and try again.",on,FALSE,FALSE,FALSE
+ALRM_TNK2_FillTime,Boolean,Network,on,Plating tank 2 did not fill within timeout - check flow and sensors,on,FALSE,FALSE,FALSE
+ALRM_TNK2_TSens,Boolean,Network,on,Plating tank 2 temperature sensor failed,on,FALSE,FALSE,FALSE
+ALRM_GFConc_PTank2,Boolean,Network,on,Plating tank 2 Georg Fischer Profibus Concentrator not communicating,on,FALSE,FALSE,FALSE
+ALRM_TNK2_LSens,Boolean,Network,on,Plating tank 2 level sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK1_LSens,Boolean,Network,on,Plating tank 1 level sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK2_FlowCntrlr_Failed,Boolean,Network,on,Plating tank 2 Eductor flow controler failed,on,FALSE,FALSE,FALSE
+ALRM_TNK2_NoValveCntrl,Boolean,Network,on,No Communication to Air Valve Controler,on,FALSE,FALSE,FALSE
+ALRM_TNK9_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to suck pump VFD 9,on,FALSE,FALSE,FALSE
+ALRM_TNK8_PMP1_No_Comm,Boolean,Network,on,Buss communication lost to suck pump VFD 8,on,FALSE,FALSE,FALSE
+ALRM_RECT5_8_ProfiFault,Boolean,Network,on,Profibus fault - no communication with DC rectifiers,on,FALSE,FALSE,FALSE
+ALRM_RECT5_CommErr,Boolean,Network,on,Communication Fault Rectifier 5,on,FALSE,FALSE,FALSE
+ALRM_RECT5_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 5,on,FALSE,FALSE,FALSE
+ALRM_RECT5_Fault,Boolean,Network,on,General Fault in rectifier 5,on,FALSE,FALSE,FALSE
+ALRM_RECT5_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 5,on,FALSE,FALSE,FALSE
+ALRM_RECT5_RecipeeErr,Boolean,Network,on,Rectfier 5 recipe error (left anode process tank 3),on,FALSE,FALSE,FALSE
+ALRM_RECT5_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 5,on,FALSE,FALSE,FALSE
+ALRM_TNK3_TSens,Boolean,Network,on,Plating tank 3 temperature sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK3_LSens,Boolean,Network,on,Plating tank 3 level sensor failed,on,FALSE,FALSE,FALSE
+ALRM_GFConc_PTank3,Boolean,Network,on,Plating tank 3 Georg Fischer Profibus Concentrator not communicating,on,FALSE,FALSE,FALSE
+ALRM_TNK3_FlowCntrlr_Failed,Boolean,Network,on,Plating tank 3 Eductor flow controler failed,on,FALSE,FALSE,FALSE
+ALRM_TNK4_TSens,Boolean,Network,on,Plating tank 4 temperature sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK4_LSens,Boolean,Network,on,Plating tank 4 level sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK3_Rack_Motors,Boolean,Network,on,Process tank 3 has a rack/eductor motor not operating correctly.,on,FALSE,FALSE,FALSE
+ALRM_TNK3_Overfilled,Boolean,Network,on,"Process tank 3 is overfilled, reduce flow setting, clear drains, etc. and try again.",on,FALSE,FALSE,FALSE
+ALRM_TNK3_FillTime,Boolean,Network,on,Plating tank 3 did not fill within timeout - check flow and sensors,on,FALSE,FALSE,FALSE
+ALRM_GFConc_PTank3_6,Boolean,Network,on,Plating tank 3-6 Return and P Georg Fischer Profibus Concentrator not communicating,on,FALSE,FALSE,FALSE
+ALRM_PTnk3_4_SupplyPres_Sensor,Boolean,Network,on,Chemistry supply pressure sensor at process tanks 3-4 has failed.,on,FALSE,FALSE,FALSE
+ALRM_PTnk5_6_SupplyPres_Sensor,Boolean,Network,on,Chemistry supply pressure sensor at process tanks 5-6 has failed.,on,FALSE,FALSE,FALSE
+ALRM_RECT6_CommErr,Boolean,Network,on,Communication Fault Rectifier 6,on,FALSE,FALSE,FALSE
+ALRM_RECT6_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 6,on,FALSE,FALSE,FALSE
+ALRM_RECT6_Fault,Boolean,Network,on,General Fault in rectifier 6,on,FALSE,FALSE,FALSE
+ALRM_RECT6_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 6,on,FALSE,FALSE,FALSE
+ALRM_RECT6_RecipeeErr,Boolean,Network,on,Rectfier 6 recipe error (right anode process tank 3),on,FALSE,FALSE,FALSE
+ALRM_RECT6_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 6,on,FALSE,FALSE,FALSE
+ALRM_GFConc_PTank4,Boolean,Network,on,Plating tank 4 Georg Fischer Profibus Concentrator not communicating,on,FALSE,FALSE,FALSE
+ALRM_TNK4_Rack_Motors,Boolean,Network,on,Process tank 4 has a rack/eductor motor not operating correctly.,on,FALSE,FALSE,FALSE
+ALRM_TNK4_Overfilled,Boolean,Network,on,"Process tank 4 is overfilled, reduce flow setting, clear drains, etc. and try again.",on,FALSE,FALSE,FALSE
+ALRM_TNK4_FillTime,Boolean,Network,on,Plating tank 4 did not fill within timeout - check flow and sensors,on,FALSE,FALSE,FALSE
+ALRM_MainCabTSenseBroke,Boolean,Network,on,Main Electrical Cabinet Type J thermocouple Broken,on,FALSE,FALSE,FALSE
+ALRM_RECT7_CommErr,Boolean,Network,on,Communication Fault Rectifier 7,on,FALSE,FALSE,FALSE
+ALRM_RECT7_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 7,on,FALSE,FALSE,FALSE
+ALRM_RECT7_Fault,Boolean,Network,on,General Fault in rectifier 7,on,FALSE,FALSE,FALSE
+ALRM_RECT7_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 7,on,FALSE,FALSE,FALSE
+ALRM_RECT7_RecipeeErr,Boolean,Network,on,Rectfier 7 recipe error (left anode process tank 4),on,FALSE,FALSE,FALSE
+ALRM_RECT7_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 7,on,FALSE,FALSE,FALSE
+ALRM_RECT8_CommErr,Boolean,Network,on,Communication Fault Rectifier 8,on,FALSE,FALSE,FALSE
+ALRM_RECT8_OvrVolt,Boolean,Network,on,Voltage limit exceeded on rectifier 8,on,FALSE,FALSE,FALSE
+ALRM_RECT8_Fault,Boolean,Network,on,General Fault in rectifier 8,on,FALSE,FALSE,FALSE
+ALRM_RECT8_OvrCurrent,Boolean,Network,on,Current limits exceed on rectifier 8,on,FALSE,FALSE,FALSE
+ALRM_RECT8_RecipeeErr,Boolean,Network,on,Rectfier 8 recipe error (right anode process tank 4),on,FALSE,FALSE,FALSE
+ALRM_RECT8_OvrTemp,Boolean,Network,on,Temperature limit exceeded on rectifier 8,on,FALSE,FALSE,FALSE
+ALRM_SPS_Proc1,Boolean,Network,on,Dosing SPS to Process 1 Failed,on,FALSE,FALSE,FALSE
+ALRM_SPS_Proc2,Boolean,Network,on,Dosing SPS to Process 2 Failed,on,FALSE,FALSE,FALSE
+ALRM_SPS_Proc3,Boolean,Network,on,Dosing SPS to Process 3 Failed,on,FALSE,FALSE,FALSE
+ALRM_UCON_Proc1,Boolean,Network,on,Dosing Supressor to Process 1 Failed,on,FALSE,FALSE,FALSE
+ALRM_UCON_Proc2,Boolean,Network,on,Dosing Supressor to Process 2 Failed,on,FALSE,FALSE,FALSE
+ALRM_UCON_Proc3,Boolean,Network,on,Dosing Supressor to Process 3 Failed,on,FALSE,FALSE,FALSE
+ALRM_LEV_Proc1,Boolean,Network,on,Dosing Leveler to Process 1 Failed,on,FALSE,FALSE,FALSE
+ALRM_LEV_Proc2,Boolean,Network,on,Dosing Leveler to Process 2 Failed,on,FALSE,FALSE,FALSE
+ALRM_LEV_Proc3,Boolean,Network,on,Dosing Leveler to Process 3 Failed,on,FALSE,FALSE,FALSE
+ALRM_Acid_Proc1,Boolean,Network,on,Dosing Acid to Process 1 Failed,on,FALSE,FALSE,FALSE
+ALRM_Acid_Proc2,Boolean,Network,on,Dosing Acid to Process 2 Failed,on,FALSE,FALSE,FALSE
+ALRM_Acid_Proc3,Boolean,Network,on,Dosing Acid to Process 3 Failed,on,FALSE,FALSE,FALSE
+ALRM_Rinse2_Conductivity_Sensor,Boolean,Network,on,Rinse 2 Conductivity sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_TNK3_NoSuckFlow,Boolean,Network,on,"Process tank 3 return pump lost prime, or plugged, not functioning",on,FALSE,FALSE,FALSE
+ALRM_TNK2_NoSuckFlow,Boolean,Network,on,"Process tank 2 return pump lost prime, or plugged, not functioning",on,FALSE,FALSE,FALSE
+ALRM_TNK1_NoSuckFlow,Boolean,Network,on,"Process tank 1 return pump lost prime, or plugged, not functioning",on,FALSE,FALSE,FALSE
+ALRM_Rinse3_Conductivity_Sensor,Boolean,Network,on,Rinse 3 Conductivity sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_Rinse1_Conductivity_Sensor,Boolean,Network,on,Rinse 1 Conductivity sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_Acid3_TSens,Boolean,Network,on,Acid tank 3 temperature sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_Acid3_Conductivity_Sensor,Boolean,Network,on,Acid tank 3 Conductivity sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_GFConc_ARTank1_3,Boolean,Network,on,Acid tank 3 and Rinse 1 Georg Fischer Profibus Concentrator not communicating,on,FALSE,FALSE,FALSE
+ALRM_AcidT3_NoValveCntrl,Boolean,Network,on,Acid tank 3 cannot control tank - no sensors,on,FALSE,FALSE,FALSE
+ALRM_Acid3_LSens,Boolean,Network,on,Acid tank 3 level sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_AcidT3_LowProcLevel,Boolean,Network,on,Acid tank 3 fluid level too low,on,FALSE,FALSE,FALSE
+ALRM_Acid3T3_HighProcT,Boolean,Network,on,Acid tank 3 temperature too high,on,FALSE,FALSE,FALSE
+ALRM_AcidT3_NoPumpCntrl,Boolean,Network,on,Acid tank 3 pump control not operational,on,FALSE,FALSE,FALSE
+ALRM_AcidT3_ThermWire,Boolean,Network,on,Acid tank 3 J Thermocouple wire broken,on,FALSE,FALSE,FALSE
+ALRM_AcidT3_ThermalFuse,Boolean,Network,on,Acid tank 3 At least 1 thermal fuse within heater is blown,on,FALSE,FALSE,FALSE
+ALRM_AcidT3_ThermSwitchTrp,Boolean,Network,on,Acid tank 3 thermal breaker for heater is tripped - wait for cooldown,on,FALSE,FALSE,FALSE
+ALRM_AcidT3_Thermal_Fault,Boolean,Network,on,Acid tank 3 thermal fault - level switch not made- add water,on,FALSE,FALSE,FALSE
+ALRM_Rinse3_ProxSens,Boolean,Network,on,Rinse tank 3 lower poximity sensor fail,on,FALSE,FALSE,FALSE
+ALRM_Rinse2_ProxSens,Boolean,Network,on,Rinse tank 2 lower poximity sensor fail,on,FALSE,FALSE,FALSE
+ALRM_Rinse1_ProxSens,Boolean,Network,on,Rinse tank 1 lower poximity sensor fail,on,FALSE,FALSE,FALSE
+ALRM_Rinse4_Conductivity_Sensor,Boolean,Network,on,Rinse 4 Conductivity sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_Dry_TSens,Boolean,Network,on,Dryer temperature sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_GFConc_RinseDry,Boolean,Network,on,"Rinse 4, PTank5&6 and Dryer Georg Fischer Profibus Concentrator not communicating",on,FALSE,FALSE,FALSE
+ALRM_Rinse4_ProxSens,Boolean,Network,on,Rinse tank 4 lower poximity sensor fail,on,FALSE,FALSE,FALSE
+ALRM_Dryer_NoExhaust,Boolean,Network,on,Dryer exhaust SMC controler not communicating,on,FALSE,FALSE,FALSE
+ALRM_Etch_LSens,Boolean,Network,on,Etch tank (#1) level sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_Acid2_LSens,Boolean,Network,on,Acid tank 2 level sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_Etch_TSens,Boolean,Network,on,Etch Tank temperature sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_Acid2_TSens,Boolean,Network,on,Acid Clean Tank (#2) temperature sensor not operational,on,FALSE,FALSE,FALSE
+ALRM_GFConc_ATank1_2,Boolean,Network,on,Etch Tank and Acid tank 2 Georg Fischer Profibus Concentrator not communicating,on,FALSE,FALSE,FALSE
+ALRM_AcidT2_ThermWire,Boolean,Network,on,Acid tank 2 J Thermocouple wire broken,on,FALSE,FALSE,FALSE
+ALRM_EtchT_ThermWire,Boolean,Network,on,Etch tank J Thermocouple wire broken,on,FALSE,FALSE,FALSE
+ALRM_PlenumHt_ThermWire,Boolean,Network,on,Plenum Heater water exit T J-Thermocouple wire broken,on,FALSE,FALSE,FALSE
+ALRM_AcidT2_NoValveCntrl,Boolean,Network,on,Acid tank 2 cannot control tank - no sensors,on,FALSE,FALSE,FALSE
+ALRM_AcidT2_LowProcLevel,Boolean,Network,on,Acid tank 2 fluid level too low,on,FALSE,FALSE,FALSE
+ALRM_AcidT2_HighProcT,Boolean,Network,on,Acid tank 2 temperature too high,on,FALSE,FALSE,FALSE
+ALRM_AcidT2_NoPumpCntrl,Boolean,Network,on,Acid tank 2 pump control not operational,on,FALSE,FALSE,FALSE
+ALRM_AcidT2_ThermalFuse,Boolean,Network,on,Acid tank 2 At least 1 thermal fuse within heater is blown,on,FALSE,FALSE,FALSE
+ALRM_AcidT2_ThermSwitchTrp,Boolean,Network,on,Acid tank 2 thermal breaker for heater is tripped - wait for cooldown,on,FALSE,FALSE,FALSE
+ALRM_AcidT2_Thermal_Fault,Boolean,Network,on,Acid tank 2 thermal fault - level switch not made- add water,on,FALSE,FALSE,FALSE
+ALRM_Acid2_WtrVlv,Boolean,Network,on,Acid tank 2 water control valve fault - not communicating,on,FALSE,FALSE,FALSE
+ALRM_AcidT1_LowProcLevel,Boolean,Network,on,Acid tank 1 fluid level too low,on,FALSE,FALSE,FALSE
+ALRM_AcidT1_HighProcT,Boolean,Network,on,Acid tank 1 temperature too high,on,FALSE,FALSE,FALSE
+ALRM_AcidT1_NoPumpCntrl,Boolean,Network,on,Acid tank 1 pump control not operational,on,FALSE,FALSE,FALSE
+ALRM_AcidT1_ThermalFuse,Boolean,Network,on,Acid tank 1 At least 1 thermal fuse within heater is blown,on,FALSE,FALSE,FALSE
+ALRM_AcidT1_ThermSwitchTrp,Boolean,Network,on,Acid tank 1 thermal breaker for heater is tripped - wait for cooldown,on,FALSE,FALSE,FALSE
+ALRM_AcidT1_Thermal_Fault,Boolean,Network,on,Acid tank 1 thermal fault - level switch not made- add water,on,FALSE,FALSE,FALSE
+ALRM_AcidT1_NoValveCntrl,Boolean,Network,on,Acid tank 2 cannot control tank level - no automatic valve control,on,FALSE,FALSE,FALSE
+ALRM_TNK5_TSens,Boolean,Network,on,Plating tank 5 temperature sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK5_LSens,Boolean,Network,on,Plating tank 5 level sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK5_FlowCntrlr_Failed,Boolean,Network,on,Plating tank 5 flow controler failed,on,FALSE,FALSE,FALSE
+ALRM_GFConc_PTank5,Boolean,Network,on,Plating tank 5 Georg Fischer Profibus Concentrator not communicating,on,FALSE,FALSE,FALSE
+ALRM_TNK6_TSens,Boolean,Network,on,Plating tank 6 temperature sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK6_LSens,Boolean,Network,on,Plating tank 6 level sensor failed,on,FALSE,FALSE,FALSE
+ALRM_TNK6_FlowCntrlr_Failed,Boolean,Network,on,Plating tank 6 flow controler failed,on,FALSE,FALSE,FALSE
+ALRM_GFConc_PTank6,Boolean,Network,on,Plating tank 6 Georg Fischer Profibus Concentrator not communicating,on,FALSE,FALSE,FALSE
+ALRM_TNK5_Rack_Motors,Boolean,Network,on,Process tank 5 has a rack/eductor motor not operating correctly.,on,FALSE,FALSE,FALSE
+ALRM_TNK5_Overfilled,Boolean,Network,on,"Process tank 5 is overfilled, reduce flow setting, clear drains, etc. and try again.",on,FALSE,FALSE,FALSE
+ALRM_TNK5_FillTime,Boolean,Network,on,Plating tank 5 did not fill within timeout - check flow and sensors,on,FALSE,FALSE,FALSE
+ALRM_TNK5_NoSuckFlow,Boolean,Network,on,"Process tank 5 return pump lost prime, or plugged, not functioning",on,FALSE,FALSE,FALSE
+ALRM_TNK6_Rack_Motors,Boolean,Network,on,Process tank 6 has a rack/eductor motor not operating correctly.,on,FALSE,FALSE,FALSE
+ALRM_TNK6_Overfilled,Boolean,Network,on,"Process tank 6 is overfilled, reduce flow setting, clear drains, etc. and try again.",on,FALSE,FALSE,FALSE
+ALRM_TNK6_FillTime,Boolean,Network,on,Plating tank 6 did not fill within timeout - check flow and sensors,on,FALSE,FALSE,FALSE
+ALRM_TNK6_NoSuckFlow,Boolean,Network,on,"Process tank 6 return pump lost prime, or plugged, not functioning",on,FALSE,FALSE,FALSE
+ALRM_RECT2_RecipeeErr,Boolean,Network,on,Rectfier 2 recipe error (right anode process tank 1),on,FALSE,FALSE,FALSE
+ALRM_TNK1_NoValveCntrl,Boolean,Network,on,Plating tank 1 cannot control tank - no automatic valve control,on,FALSE,FALSE,FALSE
+ALRM_TNK4_FlowCntrlr_Failed,Boolean,Network,on,Plating tank 4 cannot control tank - no flow control valve response,on,FALSE,FALSE,FALSE
+ALRM_TNK4_NoSuckFlow,Boolean,Network,on,"Process tank 4 return pump lost prime, or plugged, not functioning",on,FALSE,FALSE,FALSE
+ALRM_Acid_PreDip,Boolean,Network,on,No Flow sulfuric acid dosing to Acid Predip Tank,on,FALSE,FALSE,FALSE

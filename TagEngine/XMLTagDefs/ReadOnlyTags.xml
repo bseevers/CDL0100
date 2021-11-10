@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tagRoot>
+	<Name>Tag Configuration</Name>
+	<Description/>
+	<Version>2.0</Version>
+	<hmiFolder>
+		<Name>HMIs</Name>
+		<Description/>
+		<hmi>
+			<Name>HMI</Name>
+			<Description/>
+			<TagFolder>
+				<Name>Indicators</Name>
+				<Description/>
+				<LocalTag>
+					<Name>HMI_TNK1_Suck_Pmp</Name>
+					<Description/>
+					<DataType>Boolean</DataType>
+					<Default>False</Default>
+					<Log>True</Log>
+				</LocalTag>
+				<LocalTag>
+					<Name>TNK1_Pmp1_ActTemp</Name>
+					<Description/>
+					<DataType>Integer (I32)</DataType>
+					<Default>0</Default>
+					<Log>True</Log>
+				</LocalTag>  
+				<LocalTag>
+					<Name>TNK1_Pmp1_ActFaultCd</Name>
+					<Description/>
+					<DataType>Integer (I32)</DataType>
+					<Default>0</Default>
+					<Log>True</Log>
+				</LocalTag>  
+				<LocalTag>
+					<Name>TNK1_Pmp1_ActVolts</Name>
+					<Description/>
+					<DataType>Float (Double)</DataType>
+					<Default>0.000000</Default>
+					<Log>True</Log>
+				</LocalTag>
+				<LocalTag>
+					<Name>TNK1_Pmp1_ActCurr</Name>
+					<Description/>
+					<DataType>Float (Double)</DataType>
+					<Default>0.000000</Default>
+					<Log>True</Log>
+				</LocalTag>
+				<LocalTag>
+					<Name>TNK1_Pmp1_ActRPM</Name>
+					<Description/>
+					<DataType>Float (Double)</DataType>
+					<Default>0.000000</Default>
+					<Log>True</Log>
+				</LocalTag>
+				<LocalTag>
+					<Name>TNK1_Pmp1_ActFrq</Name>
+					<Description/>
+					<DataType>Float (Double)</DataType>
+					<Default>0.000000</Default>
+					<Log>True</Log>
+				</LocalTag>
+				<LocalTag>
+					<Name>ALRM_TNK1_Suck_Pmp</Name>
+					<Description/>
+					<DataType>Boolean</DataType>
+					<Default>False</Default>
+					<Log>True</Log>
+				</LocalTag>
+			</TagFolder>
+		</hmi>
+	</hmiFolder>
+	<cntlFolder>
+		<Name>Controllers</Name>
+		<Description/>
+	</cntlFolder>
+</tagRoot>

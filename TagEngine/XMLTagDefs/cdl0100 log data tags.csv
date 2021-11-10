@@ -1,0 +1,159 @@
+Name,Type,VarType,Description,Description:Description,Logging,Logging:Deadband,Logging:LogData,Logging:LogEvents,Logging:ValueRes,Network,Network:BuffSize,Network:SingleWriter,Network:UseBinding,Network:UseBuffering,Path
+BAS_Proc1_DI_Total,Double,Network,on,DI add to Proc 1,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc1_Oxide_FlowRate,Double,Network,on,Flow to oxide system 1,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc1_P,Double,Network,on,Pressure of process 1 just after heat exchanger,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc1_T,Double,Network,on,Temperature of process 1 just after heat exchanger,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc1_Tank_Level,Double,Network,on,Process 1 Sump Level in Liters,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc2_DI_Total,Double,Network,on,DI add to Proc 2,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc2_Oxide_FlowRate,Double,Network,on,Flow to oxide system 2,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc2_P,Double,Network,on,Pressure of process 2 just after heat exchanger,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc2_T,Double,Network,on,Temperature of process 2 just after heat exchanger,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc2_Tank_Level,Double,Network,on,Process 2 Sump Level in Liters,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc3_DI_Total,Double,Network,on,DI add to Proc 3,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc3_Oxide_FlowRate,Double,Network,on,Flow to oxide system 3,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc3_P,Double,Network,on,Pressure of process 3 just after heat exchanger,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc3_T,Double,Network,on,Temperature of process 3 just after heat exchanger,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc3_Tank_Level,Double,Network,on,Process 3 Sump Level in Liters,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc4_DI_Total,Double,Network,on,DI add to Proc Mix Tank,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc4_Tank_Level,Double,Network,on,Mixing / Carbon treat Sump Level in Liters,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+FAC_BoilerWater_In_T,Double,Network,on,Temperature of Fac boiler water in,on,0.025,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+FAC_BoilerWater_Out_T,Double,Network,on,Temperature of Fac boiler water out,on,0.025,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+FAC_ColdWater_In_T,Double,Network,on,Temperature ofFac cold water in,on,0.025,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+FAC_ColdWater_Out_T,Double,Network,on,Temperature of Fac cold water out,on,0.025,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+FAC_TemperedWater_In_T,Double,Network,on,Temperature of Fac tempered water in,on,0.025,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+FAC_TemperedWater_Out_T,Double,Network,on,Temperature of Fac tempered water out,on,0.025,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+IO_Proc1_Chilled_Valv_Pos,Double,Network,on,Mixer valve position,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+IO_Proc1_Tempered_Valv_Pos,Double,Network,on,Mixer valve position,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+IO_Proc2_Chilled_Valv_Pos,Double,Network,on,Mixer valve position,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+IO_Proc2_Tempered_Valv_Pos,Double,Network,on,Mixer valve position,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+IO_Proc3_Boiler_Valv_Pos,Double,Network,on,Mixer valve position,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+IO_Proc3_Chilled_Valv_Pos,Double,Network,on,Mixer valve position,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+IO_Proc3_Tempered_Valv_Pos,Double,Network,on,Mixer valve position,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect1_ActlAmpMins,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect1_ActlCurrentFwd,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect1_ActlVolts,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect2_ActlAmpMins,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect2_ActlCurrentFwd,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect2_ActlVolts,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK1_Flow1,Double,Network,,,on,0.05,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK1_Flow2,Double,Network,,,on,0.05,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK1_Flow3,Double,Network,,,on,0.05,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK1_Flow4,Double,Network,,,on,0.05,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK1_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK1_SuckFlow,Double,Network,,,on,0.05,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK1_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK12_MainPressure,Double,Network,,,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK2_Flow1,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK2_Flow2,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK2_Flow3,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK2_Flow4,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK2_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK2_SuckFlow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK2_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Main_Elect_Cab_T,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc4_H2SO4_Total,Double,Network,on,Sulfuric add to Bas Mix,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc1_Total_Flow,Double,Network,,,on,0.1,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc2_Total_Flow,Double,Network,,,on,0.1,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK3_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK4_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK34_MainPressure,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK3_Flow1,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK3_Flow2,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK3_Flow3,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK3_Flow4,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK3_SuckFlow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK4_Flow1,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK4_Flow2,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK4_Flow3,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK4_Flow4,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK4_SuckFlow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect3_ActlAmpMins,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect3_ActlCurrentFwd,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect3_ActlVolts,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect4_ActlAmpMins,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect4_ActlCurrentFwd,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect4_ActlVolts,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect5_ActlAmpMins,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect5_ActlCurrent,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect5_ActlVolts,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect6_ActlAmpMins,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect6_ActlCurrent,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect6_ActlVolts,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect7_ActlAmpMins,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect7_ActlCurrent,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect7_ActlVolts,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect8_ActlAmpMins,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect8_ActlCurrent,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rect8_ActlVolts,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse2_Conductivity,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse2_Flow_Total,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse3_Conductivity,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse3_Flow_Total,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Acid3_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+AcidTnk3_Tank_T,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Acid3_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Acid3_CondTemperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Acid3_Flow,Double,Network,,,on,0.1,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Acid3_Conductivity,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse2_Flow,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse3_Flow,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse1_Flow,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse4_Flow,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse4_Conductivity,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Rinse4_Flow_Total,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Dryer_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Dryer_BlrWtrActl,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Etch_Flow,Double,Network,,,on,0.1,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Acid2_Flow,Double,Network,,,on,0.1,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Etch_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Acid2_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.005,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Etch_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Acid2_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+AcidTnk2_Tank_T,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+EtchTnk_Tank_T,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+PlenumWtrExit_T,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK5_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+BAS_Proc3_Total_Flow,Double,Network,,,on,0.1,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK5_Flow1,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK5_Flow2,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK5_Flow3,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK5_Flow4,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK5_SuckFlow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK56_MainPressure,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc1_Total_Flow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc2_Total_Flow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc3_Total_Flow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc4_Total_Flow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc5_Total_Flow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc6_Total_Flow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK3_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK4_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK5_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK6_Flow1,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK6_Flow2,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK6_Flow3,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK6_Flow4,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK6_SuckFlow,Double,Network,,,on,0.05,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK6_Temperature,Double,Network,,,on,0.01,TRUE,TRUE,0.0025,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK6_ProcVlv1_ActlPos,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK5_ProcVlv1_ActlPos,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK4_ProcVlv1_ActlPos,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK3_ProcVlv1_ActlPos,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK2_ProcVlv1_ActlPos,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK1_ProcVlv1_ActlPos,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+TNK6_Level,Double,Network,,,on,0.01,TRUE,TRUE,0.01,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc1_TotalAmpMin,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc2_TotalAmpMin,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+Proc3_TotalAmpMin,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalOxDosed_P1,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalOxDosed_P2,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalOxDosed_P3,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalLevDosed_P1,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalLevDosed_P2,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalLevDosed_P3,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalSPSDosed_P1,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalSPSDosed_P2,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalSPSDosed_P3,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalAcidDosed_P1,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalAcidDosed_P2,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/
+HMI_TotalAcidDosed_P3,Double,Network,,,on,0.01,TRUE,TRUE,0.1,on,,FALSE,FALSE,FALSE,/SCADA Data HUT Labs.lvproj/My Computer/CDL0100 scada tags.lvlib/

@@ -1,0 +1,242 @@
+Name,Type,VarType,Description,Description:Description,Network,Network:SingleWriter,Network:UseBinding,Network:UseBuffering
+HMI_Acid2_Tank_SG,Double,Network,,,on,,FALSE,FALSE
+HMI_Acid3_Tank_SG,Double,Network,,,on,,FALSE,FALSE
+HMI_Acid_Amount_Proc1,Double,Network,,,on,,FALSE,FALSE
+HMI_Acid_Amount_Proc2,Double,Network,,,on,,FALSE,FALSE
+HMI_Acid_Amount_Proc3,Double,Network,,,on,,FALSE,FALSE
+HMI_ATank1_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank1_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank1_Fill_To_Level,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank1_HeatEnable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank1_Level_SetPnt,Double,Network,,,on,,FALSE,FALSE
+HMI_ATank2_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank2_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank2_Fill_To_Level,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank2_HeatEnable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank2_Level_SetPnt,Double,Network,,,on,,FALSE,FALSE
+HMI_ATank3_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank3_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATank3_HeatEnable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_ATNK1_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_ATNK1_T_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_ATNK2_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_ATNK2_T_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_ATNK3_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_ATNK3_T_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc1_AddDIVolume,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc1_DI_Setpnt,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc1_Tank_SG,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc2_AddDIVolume,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc2_DI_Setpnt,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc2_Tank_SG,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc3_AddDIVolume,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc3_DI_Setpnt,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc3_Tank_SG,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc4_AddDIVolume,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc4_AddH2SO4Volume,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc4_DI_Setpnt,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc4_H2SO4_Setpnt,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc4_Tank_SG,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Tank1_TControl_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Tank2_TControl_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Tank3_TControl_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_TNK1_P_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_TNK1_T_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_TNK2_P_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_TNK2_T_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_TNK3_T_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Tnk4RecircPmpPcnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Dose_Acid_Proc1,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_Acid_Proc2,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_Acid_Proc3,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_Leveler_Proc1,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_Leveler_Proc2,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_Leveler_Proc3,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_SPS_Proc1,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_SPS_Proc2,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_SPS_Proc3,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_UCON_Proc1,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_UCON_Proc2,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dose_UCON_Proc3,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Drain_BTank1,Boolean,Network,,,on,FALSE,FALSE,FALSE
+HMI_Drain_BTank2,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Drain_BTank3,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Drain_BTank4,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dryer_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dryer_T_SetPnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Enable_BTnk1_Pump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Enable_BTnk2_Pump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Enable_BTnk3_Pump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Enable_BTnk4_Pump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Enable_Rinse1,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Enable_Rinse2,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Enable_Rinse3,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Enable_Rinse4,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Etch_Tank_SG,Double,Network,,,on,,FALSE,FALSE
+HMI_Leveler_Amount_Proc1,Double,Network,,,on,,FALSE,FALSE
+HMI_Leveler_Amount_Proc2,Double,Network,,,on,,FALSE,FALSE
+HMI_Leveler_Amount_Proc3,Double,Network,,,on,,FALSE,FALSE
+HMI_Proc1_Add_CuOxide,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Proc1_CuOxideAddAmnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Proc1_OxFlow_SetPnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Proc1_Run_OxideSys,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Proc2_Add_CuOxide,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Proc2_CuOxideAddAmnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Proc2_OxFlow_SetPnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Proc2_Run_OxideSys,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Proc3_Add_CuOxide,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Proc3_CuOxideAddAmnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Proc3_OxFlow_SetPnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Proc3_Run_OxideSys,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rct1_AFwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct1_ABwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct1_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct1_FwdTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct1_FwdOffTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct1_BwdTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct1_BwdOffTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct2_AFwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct2_ABwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct2_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rect1_2_NumSteps,Int32,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct3_AFwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct3_ABwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct3_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct3_FwdTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct3_FwdOffTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct3_BwdTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct3_BwdOffTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct4_AFwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct4_ABwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct4_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rect3_4_NumSteps,Int32,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rect1_2_Cycle,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect1_2_CycleStop,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect3_4_Cycle,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect3_4_CycleStop,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect5_6_Cycle,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect5_6_CycleStop,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect7_8_Cycle,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect7_8_CycleStop,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Reset_Alarms,Boolean,Network,on,Reset Machine Alarms (if the alarming condition does not exist),on,TRUE,FALSE,FALSE
+HMI_Reset_Rinse1_DI_Total,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Reset_Rinse2_DI_Total,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Reset_Rinse3_DI_Total,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Reset_Rinse4_DI_Total,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rinse1_OverrideRun,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rinse1_VlvSetpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Rinse2_OverrideRun,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rinse2_VlvSetpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Rinse3_OverrideRun,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rinse3_VlvSetpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Rinse4_OverrideRun,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rinse4_VlvSetpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_SPS_Amount_Proc1,Double,Network,,,on,,FALSE,FALSE
+HMI_SPS_Amount_Proc2,Double,Network,,,on,,FALSE,FALSE
+HMI_SPS_Amount_Proc3,Double,Network,,,on,,FALSE,FALSE
+HMI_Tank1_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank1_Eductor_Motors_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank1_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank1_Rack_Motor_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank2_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank2_Eductor_Motors_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank2_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank2_Rack_Motor_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank3_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank3_Eductor_Motors_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank3_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank3_Rack_Motor_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank4_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank4_Eductor_Motors_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank4_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank4_Rack_Motor_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank5_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank6_Enable,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tnk1_Eductor_RPM,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk1_Enable_SuckPump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_TNK1_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk1_Rack_RPM,Double,Network,,,on,,FALSE,FALSE
+HMI_TNK1_SuckPmpFrac_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk2_Enable_SuckPump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_TNK2_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_TNK2_SuckPmpFrac_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk3_Eductor_RPM,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk3_Enable_SuckPump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_TNK3_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk3_Rack_RPM,Double,Network,,,on,,FALSE,FALSE
+HMI_TNK3_SuckPmpFrac_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk4_Enable_SuckPump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_TNK4_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_TNK4_SuckPmpFrac_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_UCON_Amount_Proc1,Double,Network,,,on,,FALSE,FALSE
+HMI_UCON_Amount_Proc2,Double,Network,,,on,,FALSE,FALSE
+HMI_UCON_Amount_Proc3,Double,Network,,,on,,FALSE,FALSE
+HMI_ATank3_Level_SetPnt,Double,Network,,,on,,FALSE,FALSE
+HMI_ATank3_Fill_To_Level,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect5_6_NumSteps,Int32,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct5_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct5_A_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct6_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct6_A_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rect7_8_NumSteps,Int32,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct7_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct7_A_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct8_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct8_A_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Tank5_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank6_Drain,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect9_10_NumSteps,Int32,Network,,,on,FALSE,FALSE,FALSE
+HMI_TNK5_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_TNK5_SuckPmpFrac_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk5_Enable_SuckPump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect9_10_Cycle,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect9_10_CycleStop,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank5_Rack_Motor_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank5_Eductor_Motors_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rct9_AFwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct9_ABwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct9_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct9_FwdTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct9_FwdOffTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct9_BwdTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct9_BwdOffTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct10_AFwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct10_ABwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct10_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Tnk5_Eductor_RPM,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk5_Rack_RPM,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_TNK3_P_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Tank5_Motion_OverRide,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Reset_DosingTotals,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect11_12_NumSteps,Int32,Network,,,on,FALSE,FALSE,FALSE
+HMI_TNK6_Flow_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_TNK6_SuckPmpFrac_Setpoint,Double,Network,,,on,,FALSE,FALSE
+HMI_Tnk6_Enable_SuckPump,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect11_12_Cycle,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rect11_12_CycleStop,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank6_Rack_Motor_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank6_Motion_OverRide,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Tank6_Eductor_Motors_Run,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Rct11_AFwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct11_ABwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct11_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct11_FwdTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct11_FwdOffTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct11_BwdTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct11_BwdOffTm_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct12_AFwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct12_ABwd_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Rct12_AMin_SetPnts,Array of Double,Network,,,on,FALSE,FALSE,FALSE
+HMI_Reset_Bas_DI_Total,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Reset_Autologout,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Dryer_Standby_Level,Double,Network,,,on,,FALSE,FALSE
+HMI_Dryer_Dry_Level,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc3_Level_Auto,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc3_Level_Setpnt,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc2_Level_Auto,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc2_Level_Setpnt,Double,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc1_Level_Auto,Boolean,Network,,,on,,FALSE,FALSE
+HMI_BAS_Proc1_Level_Setpnt,Double,Network,,,on,,FALSE,FALSE
+HMI_Dose_Acid_PreDip,Boolean,Network,,,on,,FALSE,FALSE
+HMI_Acid_Amount_PreDip,Double,Network,,,on,,FALSE,FALSE

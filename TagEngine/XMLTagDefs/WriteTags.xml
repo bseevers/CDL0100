@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tagRoot>
+	<Name>Tag Configuration</Name>
+	<Description/>
+	<Version>2.0</Version>
+	<hmiFolder>
+		<Name>HMIs</Name>
+		<Description/>
+		<hmi>
+			<Name>HMI</Name>
+			<Description/>
+			<TagFolder>
+				<Name>Indicators</Name>
+				<Description/>
+				<LocalTag>
+					<Name>HMI_Reset_Alarms</Name>
+					<Description/>
+					<DataType>Boolean</DataType>
+					<Default>False</Default>
+					<Log>False</Log>
+				</LocalTag>
+			</TagFolder>
+		</hmi>
+	</hmiFolder>
+	<cntlFolder>
+		<Name>Controllers</Name>
+		<Description/>
+	</cntlFolder>
+</tagRoot>
