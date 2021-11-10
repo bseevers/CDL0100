@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project><fileHeader companyName="General Electric Company" productName="Proficy Machine Edition" productVersion="9.50 SIM 18" creationDateTime="2020-07-17 11:07:23"/><protected>0</protected><targets><target name="CDL0100_PLC"><type>GE IP Controller</type><model>PACSystems RX3i</model></target></targets></project>
